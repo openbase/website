@@ -2,5 +2,8 @@
   "scripts": {
     "www:dev": "vuepress dev www",
     "www:build": "vuepress build www"
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.2"
   }
 }
