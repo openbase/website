@@ -182,3 +182,4 @@ gen-external-apklibs
 node_modules/.cache
 node_modules/vuepress/node_modules
 www/.vuepress
+node_modules/vuepress/lib/app/.temp/
