@@ -14,12 +14,7 @@ Feel free to join!
 
 support@openbase.org
 
-## Issue Reports
+## Feature Request and Issue Reports
+<br>
+<issues/>
 
-Please report issues via: [github](https://github.com/openbase/)
-<!---
-{% for project in site.data.projects %}
-* **{{ project.label }}**
-  * [create new issue](https://github.com/openbase/{{ project.id }}/issues/new)
-{% endfor %}
--->

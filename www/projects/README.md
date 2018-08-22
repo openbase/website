@@ -1,4 +1,5 @@
 ---
 ---
 
-# Openbase Projects
+# Projects
+<projects/>
