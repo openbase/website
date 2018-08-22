@@ -8,16 +8,12 @@ module.exports = {
         logo: '/images/openbase_logo.svg',
         nav: [
             {text: 'Projects', link: '/projects/'},
-            {text: 'Guidelines', link: '/guidelines/'},
-            {text: 'Tools', link: '/tools/'},
             {text: 'Contact', link: '/contact'}
         ],
         displayAllHeaders: true,
         sidebar: [
             '/',
             '/projects/',
-            '/guidelines/',
-            '/tools/',
             '/contact'
         ],
         lastUpdated: 'Last Updated',

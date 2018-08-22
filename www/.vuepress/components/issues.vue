@@ -14,7 +14,6 @@
                         <a :href="'https://github.com/openbase/'+ project.id + '/issues/new'">create new issue</a>
                     </a>
                 </td>
-
             </tr>
         </table>
     </div>
