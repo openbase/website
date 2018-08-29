@@ -14,7 +14,7 @@ module.exports = {
         sidebar: [
             '/',
             '/projects/',
-            '/contact'
+            '/contact/'
         ],
         lastUpdated: 'Last Updated',
         repo: 'openbase',
@@ -24,8 +24,6 @@ module.exports = {
 
     },
     sidebar: 'auto',
-    serviceWorker: true,
-
-    openbasepr: 'test'
+    serviceWorker: true
 
 }
