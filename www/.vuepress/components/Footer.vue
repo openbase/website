@@ -6,7 +6,7 @@
     <div class="legal">
       <span class="copyright">Copyright © {{year}} openbase.org</span>
       <br />
-      <router-link to="/privacy.html">Privacy policy</router-link> |
+      <router-link to="/privacypolice.html">Privacy policy</router-link> |
       <router-link to="/imprint.html">Imprint</router-link>
     </div>
   </footer>

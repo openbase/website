@@ -75,8 +75,13 @@ is not possible.
 
 The party responsible for processing data on this website is:
 
-<org-address/>
-<org-contact/>
+Marian Pohling<br>
+Schillerstr. 1<br>
+33609 Bielefeld<br>
+
+:phone:  +49521-3039167<br>
+:email: support@openbase.org<br>
+:globe_with_meridians: [openbase.org](https://openbase.org)
 
 The responsible party is the natural or legal person who alone or jointly with others
 decides on the purposes and means of processing personal data (names, email addresses,
