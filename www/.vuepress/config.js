@@ -7,6 +7,7 @@ module.exports = {
     themeConfig: {
         logo: '/images/openbase_logo.svg',
         nav: [
+            {text: 'Base Cube One', link: 'https://basecubeone.org'},
             {text: 'Projects', link: '/projects/'},
             {text: 'Contact', link: '/contact/'}
         ],
