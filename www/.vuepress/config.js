@@ -10,20 +10,31 @@ module.exports = {
             {text: 'Projects', link: '/projects/'},
             {text: 'Contact', link: '/contact/'}
         ],
-        displayAllHeaders: true,
+        displayAllHeaders: false,
         sidebar: [
             '/',
             '/projects/',
             '/contact/'
         ],
         lastUpdated: 'Last Updated',
-        repo: 'openbase',
+        repo: 'openbase/website',
         // if your docs are in a different repo from your main project:
         docsRepo: 'openbase/website',
+        docsDir: 'www',
         editLinks: true,
-
+        serviceWorker: {
+            updatePopup: true // Boolean | Object, default to undefined.
+            // If set to true, the default text config will be:
+            // updatePopup: {
+            //    message: "New content is available.",
+            //    buttonText: "Refresh"
+            // }
+        }
     },
+    markdown: {
+        lineNumbers: true
+    },
+
     sidebar: 'auto',
     serviceWorker: true
-
 }
