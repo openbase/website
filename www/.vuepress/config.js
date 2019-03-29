@@ -18,7 +18,7 @@ module.exports = {
             '/contact/'
         ],
         lastUpdated: 'Last Updated',
-        repo: 'openbase/website',
+        repo: 'openbase',
         // if your docs are in a different repo from your main project:
         docsRepo: 'openbase/website',
         docsDir: 'www',
