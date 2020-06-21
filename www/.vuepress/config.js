@@ -15,7 +15,8 @@ module.exports = {
         sidebar: [
             '/',
             '/projects/',
-	    '/tools/',
+            '/guidelines/',
+	        '/tools/',
             '/contact/'
         ],
         lastUpdated: 'Last Updated',
