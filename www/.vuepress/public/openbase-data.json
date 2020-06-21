@@ -13,6 +13,12 @@
       "group": "org.openbase"
     },
     {
+      "label": "RCT-Java",
+      "id": "rct-java",
+      "artifact": "rct",
+      "group": "org.openbase"
+    },
+    {
       "label": "BCO Authentication",
       "id": "bco.authentication",
       "artifact": "bco.authentication",
@@ -39,25 +45,25 @@
     {
       "label": "BCO Ontology",
       "id": "bco.ontology",
-      "artifact": "bco.ontology.lib",
+      "artifact": "bco.ontology",
       "group": "org.openbase"
     },
     {
-      "label": "BCO PSC",
-      "id": "bco.psc",
-      "artifact": "bco.psc",
+      "label": "BCO Device",
+      "id": "bco.device",
+      "artifact": "bco.device",
       "group": "org.openbase"
     },
     {
-      "label": "BCO Manager",
-      "id": "bco.manager",
-      "artifact": "bco.manager",
+      "label": "BCO OpenAPI",
+      "id": "bco.openapi",
+      "artifact": "bco.openapi",
       "group": "org.openbase"
     },
     {
-      "label": "BCO Eveson",
-      "id": "bco.eveson",
-      "artifact": "bco.eveson",
+      "label": "BCO App",
+      "id": "bco.app",
+      "artifact": "bco.app",
       "group": "org.openbase"
     },
     {
@@ -73,16 +79,28 @@
       "group": "org.openbase"
     },
     {
+      "label": "BCO PSC",
+      "id": "bco.psc",
+      "artifact": "bco.psc",
+      "group": "org.openbase"
+    },
+    {
       "label": "BCO Stage",
       "id": "bco.stage",
       "artifact": "bco.stage",
       "group": "org.openbase"
     },
     {
-      "label": "openHAB RSB Binding",
-      "id": "openhab-binding-rsb",
-      "artifact": "org.openhab.binding.rsb",
-      "group": "org.openhab.binding"
+      "label": "BCO Eveson",
+      "id": "bco.eveson",
+      "artifact": "bco.eveson",
+      "group": "org.openbase"
+    },
+    {
+      "label": "BCO Openhab Binding",
+      "id": "org.eclipse.smarthome.binding.bco",
+      "artifact": "org.eclipse.smarthome.binding.bco",
+      "group": "org.eclipse.smarthome.binding"
     },
     {
       "label": "Generic Display",

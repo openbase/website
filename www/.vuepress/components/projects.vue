@@ -80,7 +80,7 @@
         },
         mounted() {
             console.log('load stuff')
-            let url = '/openbase-data-old.json'
+            let url = '/openbase-data.json'
 
             fetch(url).then((resp) => {
                 resp.json().then((json) => {
