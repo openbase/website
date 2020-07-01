@@ -3,16 +3,11 @@
 
 # Contact
 
-## Developer Slack
-
-Feel free to join!
-
-* Team: [openbase-org](https://openbase-org.slack.com)
-* Channel: [#support](https://openbase-org.slack.com/#support)
-
 ## Support
 
 :email: support@openbase.org
+
+<iframe src="https://discordapp.com/widget?id=689880302398603272&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
 ## Feature Request and Issue Reports
 <br>
