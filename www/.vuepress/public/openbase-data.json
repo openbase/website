@@ -19,6 +19,12 @@
       "group": "org.openbase"
     },
     {
+      "label": "BaseCubeOne",
+      "id": "bco",
+      "artifact": "bco",
+      "group": "org.openbase"
+    },
+    {
       "label": "BCO Registry Editor",
       "id": "bco.registry.editor",
       "artifact": "bco.registry.editor",
