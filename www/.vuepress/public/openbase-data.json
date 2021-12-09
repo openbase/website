@@ -19,75 +19,15 @@
       "group": "org.openbase"
     },
     {
-      "label": "BCO Authentication",
-      "id": "bco.authentication",
-      "artifact": "bco.authentication",
-      "group": "org.openbase"
-    },
-    {
-      "label": "BCO Registry",
-      "id": "bco.registry",
-      "artifact": "bco.registry",
-      "group": "org.openbase"
-    },
-    {
       "label": "BCO Registry Editor",
       "id": "bco.registry.editor",
       "artifact": "bco.registry.editor",
       "group": "org.openbase"
     },
     {
-      "label": "BCO DAL",
-      "id": "bco.dal",
-      "artifact": "bco.dal",
-      "group": "org.openbase"
-    },
-    {
-      "label": "BCO Ontology",
-      "id": "bco.ontology",
-      "artifact": "bco.ontology",
-      "group": "org.openbase"
-    },
-    {
-      "label": "BCO Device",
-      "id": "bco.device",
-      "artifact": "bco.device",
-      "group": "org.openbase"
-    },
-    {
-      "label": "BCO OpenAPI",
-      "id": "bco.openapi",
-      "artifact": "bco.openapi",
-      "group": "org.openbase"
-    },
-    {
-      "label": "BCO App",
-      "id": "bco.app",
-      "artifact": "bco.app",
-      "group": "org.openbase"
-    },
-    {
       "label": "BCO BCozy",
       "id": "bco.bcozy",
       "artifact": "bco.bcozy",
-      "group": "org.openbase"
-    },
-    {
-      "label": "BCO BComfy",
-      "id": "bco.bcomfy",
-      "artifact": "bco.bcomfy",
-      "group": "org.openbase"
-    },
-    {
-      "label": "BCO PSC",
-      "id": "bco.psc",
-      "artifact": "bco.psc",
-      "group": "org.openbase"
-    },
-    {
-      "label": "BCO Stage",
-      "id": "bco.stage",
-      "artifact": "bco.stage",
       "group": "org.openbase"
     },
     {
